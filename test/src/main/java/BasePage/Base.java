@@ -28,7 +28,7 @@ public class Base {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		//Auther--Dhirendra vikram
+		//Author--Dhirendra vikram
 	}
 	public Base(){
 		
